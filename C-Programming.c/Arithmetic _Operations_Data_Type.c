@@ -6,5 +6,5 @@ int main(){
     printf("%d\n",x-y);
     printf("%d\n",x*y);
     printf("%d\n",x/y);
-    return 0;
+    return 0
 }
