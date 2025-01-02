@@ -1,4 +1,3 @@
 # C_Programming
 Lets Code
-
-PW
+Started programming with C language.
