@@ -12,7 +12,7 @@ int main(){
     printf("%d",x);
     x = x + 6;
     printf("\n%d",x);
-    printf("\n")
+    printf("\n");
     x = x - 3;
     printf("%d",x);
     return 0;
