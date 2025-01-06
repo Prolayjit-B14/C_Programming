@@ -1,5 +1,5 @@
-# C_Programming
-Lets Code
-Started programming with C language.
-Hello
-PW
+#include<stdio.h>
+int main(){
+   printf ("C");
+   return 0;
+}
