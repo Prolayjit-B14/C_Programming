@@ -1,0 +1,1 @@
+    printf("\n%d raised to the power %d is : %d",a,b,power);
